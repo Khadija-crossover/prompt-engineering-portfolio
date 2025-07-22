@@ -91,15 +91,6 @@ For mini projects, each folder contains:
 
 ---
 
-## 🟣 Live Demos (Optional)
-- Coming soon: Streamlit apps or Replit links for quick testing 🚀
-- Planned demo links:
-  - Resume Helper Tool → [Coming Soon]
-  - LinkedIn Post Generator → [Coming Soon]
-  - Product Description Generator → [Coming Soon]
-
----
-
 ## 🎓 Certification
 This project is inspired by the **Google Prompting Essentials Certificate**.
 
